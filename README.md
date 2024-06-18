@@ -1,4 +1,4 @@
-# Temu Translate Enabler
+# Temu TranslationPlugin
 
 ## 简介
 Tampermonkey 脚本，用于自动将temu.com子域网页的 `translate` 属性从 `"no"` 修改为 `"yes"`，以便启用浏览器的自动翻译功能。
